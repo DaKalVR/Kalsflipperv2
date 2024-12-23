@@ -7,3 +7,7 @@ jamming is ilegal in most countrys so beware of that (wink wink)
 i have momentom fw and an 8GB microSD card from sandisk 
 
 some apps are not incuded and you install them manualy like a cave person
+
+I am not responsible for damage to property or inproper use of these files 
+
+if you have problems you can put it in the issues tab
